@@ -38,8 +38,13 @@ Performance Density: The "Overall Percentage" of 70.94K suggests that while many
 The "Maths vs. Science" analysis indicates that academic strength is often multifaceted:
 Math-Science Synergy: The peaks in science marks frequently align with higher maths marks (80–100 range), suggesting that students excelling in one technical subject are likely the ones driving the "Pass" statistics.
 Consistency: Below a maths mark of 40, the science marks are significantly lower and less volatile, showing a baseline performance level for struggling students
+
 **INSIGHTS**
-Area Chart
-Bar Chart
-Clustered Bar Chart
-Donat Chart
+
+      Area Chart
+
+      Bar Chart
+
+      Clustered Bar Chart
+
+      Donat Chart
