@@ -29,11 +29,13 @@ Most students get between 6 and 8 hours of sleep, with the highest concentration
 Students getting approximately 7 hours of sleep also show the highest cumulative "Sum of Screen Hr," suggesting that moderate sleepers may also be the most frequent users of digital devices.
 Parental Influence: The stacked bar chart shows that students of parents with Master’s degrees (orange) and High School education (light blue) contribute significantly to the total screen time across all sleep durations.
 To dive deeper into the connection between habits and performance, we can look at how the lifestyle metrics in your project might influence the academic outcomes shown in the data.
+
 **1.  IMPACT OF RESULT**
 While the majority of students are passing, the habits observed can be compared against the "Fail" group:
 Pass/Fail Gap: With 65K in the "Pass" category versus 6K in "Fail," the overall success rate is high.
 Attendance Factor: The high "Total Attendance" of 176K likely plays a critical role in maintaining that high pass volume, acting as a buffer against the potential negative effects of high screen time.
 Performance Density: The "Overall Percentage" of 70.94K suggests that while many students pass, their scores are likely concentrated in the mid-to-high range rather than being perfect across the board.
+
 **2.  SUBJECT – SPECIFIC TRENDS**
 The "Maths vs. Science" analysis indicates that academic strength is often multifaceted:
 Math-Science Synergy: The peaks in science marks frequently align with higher maths marks (80–100 range), suggesting that students excelling in one technical subject are likely the ones driving the "Pass" statistics.
