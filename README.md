@@ -1,17 +1,17 @@
-STUDENTS PERFORMANCE INTERACTION ANALYSIS
-This report provides an analysis of student performance based on the provided data, covering academic trends, demographic factors, and health-related habits.
-Academic Performance Overview
-The overall performance data reveals a strong correlation between core subjects and general passing rates:
-Math vs. Science: There is a notable relationship between maths marks and the sum of science marks. As maths scores increase towards the 100-mark threshold, the frequency and density of high science scores also appear to rise, though there are significant fluctuations across the spectrum.
-Overall Pass Rates: The majority of the student body falls into the "Pass" category. The data shows a total "Overall Percentage" value of 65K for passing students, compared to only 6K for those who failed.
-Key Metrics: The dataset tracks a total attendance of 176K and an overall percentage sum of 70.94K.
-Demographic and Habitual Influences
-The project examines how external factors like parental education and lifestyle habits impact student life.
-Parental Education
-The distribution of parental education levels among the student population is relatively even, divided into three main categories:
-Master’s Degree: 35.1% (351 students).
-High School: 33.1% (331 students).
-Bachelor’s Degree: 31.8% (318 students).
+**STUDENTS PERFORMANCE INTERACTION ANALYSIS**
+  This report provides an analysis of student performance based on the provided data, covering academic trends, demographic factors, and     health-related habits.
+  Academic Performance Overview
+  The overall performance data reveals a strong correlation between core subjects and general passing rates:
+  Math vs. Science: There is a notable relationship between maths marks and the sum of science marks. As maths scores increase towards the 100-mark threshold, the frequency and density of high science scores also appear to rise, though there are significant fluctuations across the spectrum.
+  Overall Pass Rates: The majority of the student body falls into the "Pass" category. The data shows a total "Overall Percentage" value of 65K for passing students, compared to only 6K for those who failed.
+  Key Metrics: The dataset tracks a total attendance of 176K and an overall percentage sum of 70.94K.
+  Demographic and Habitual Influences
+  The project examines how external factors like parental education and lifestyle habits impact student life.
+  Parental Education
+  The distribution of parental education levels among the student population is relatively even, divided into three main categories:
+  Master’s Degree: 35.1% (351 students).
+  High School: 33.1% (331 students).
+  Bachelor’s Degree: 31.8% (318 students).
 
 
 Screen Time Vs Sleep Hr
@@ -29,7 +29,7 @@ Performance Density: The "Overall Percentage" of 70.94K suggests that while many
 The "Maths vs. Science" analysis indicates that academic strength is often multifaceted:
 Math-Science Synergy: The peaks in science marks frequently align with higher maths marks (80–100 range), suggesting that students excelling in one technical subject are likely the ones driving the "Pass" statistics.
 Consistency: Below a maths mark of 40, the science marks are significantly lower and less volatile, showing a baseline performance level for struggling students
-INSIGHTS
+**INSIGHTS**
 Area Chart
 Bar Chart
 Clustered Bar Chart
