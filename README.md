@@ -1,4 +1,6 @@
 **STUDENTS PERFORMANCE INTERACTION ANALYSIS**
+  
+  
   This report provides an analysis of student performance based on the provided data, covering academic trends, demographic factors, and     health-related habits.
   Academic Performance Overview
   The overall performance data reveals a strong correlation between core subjects and general passing rates:
